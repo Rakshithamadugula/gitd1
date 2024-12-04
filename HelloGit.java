@@ -7,5 +7,9 @@ public class HelloGit {
 		System.out.println("hello world");
 
 	}
-
-}
+	
+	public void m(){
+		System.out.println("rakshu");
+	}
+	}
+	
